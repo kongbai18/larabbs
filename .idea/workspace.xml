@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba593e4a-cc93-47aa-b7b1-bce8c66f11ad" name="Default Changelist" comment="" />
+    <list default="true" id="ba593e4a-cc93-47aa-b7b1-bce8c66f11ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -108,6 +114,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hK5kiEayPMnYJHDl9q9GeymQ2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -137,7 +144,7 @@
       <updated>1599747087329</updated>
       <workItem from="1599747089371" duration="3231000" />
       <workItem from="1600269166125" duration="1505000" />
-      <workItem from="1600608924502" duration="1217000" />
+      <workItem from="1600608924502" duration="1594000" />
     </task>
     <servers />
   </component>
