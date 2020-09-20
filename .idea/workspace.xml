@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba593e4a-cc93-47aa-b7b1-bce8c66f11ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <updated>1599747087329</updated>
       <workItem from="1599747089371" duration="3231000" />
       <workItem from="1600269166125" duration="1505000" />
-      <workItem from="1600608924502" duration="1791000" />
+      <workItem from="1600608924502" duration="1906000" />
     </task>
     <servers />
   </component>
