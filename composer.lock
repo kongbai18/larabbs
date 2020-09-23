@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b16ea955925d4a645e7d9b779ac77de2",
+    "content-hash": "fa8c6edc53fcd727a179a29dc8e08831",
     "packages": [
         {
             "name": "caouecs/laravel-lang",
