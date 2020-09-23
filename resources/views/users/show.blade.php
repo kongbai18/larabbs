@@ -9,10 +9,10 @@
         <img class="card-img-top" src="" alt="">
         <div class="card-body">
           <h5><stong>个人简介</stong></h5>
-          <p>lorem ipsum dsds</p>
+          <p>{{ $user->introduction }}</p>
           <hr>
           <h5><strong>注册于</strong></h5>
-          <p>january 1 1994</p>
+          <p>{{ $user->created_at->diffForHumans() }}</p>
         </div>
       </div>
     </div>
