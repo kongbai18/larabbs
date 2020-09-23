@@ -6,7 +6,7 @@
   <div class="row">
     <div class="col-lg-3 col-md-3 hidden-sm hidden-xs user-info">
       <div class="card">
-        <img class="card-img-top" src="" alt="">
+        <img class="card-img-top" src="{{ $user->avatar }}" alt="">
         <div class="card-body">
           <h5><stong>个人简介</stong></h5>
           <p>{{ $user->introduction }}</p>
