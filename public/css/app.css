@@ -10907,6 +10907,7 @@ html {
 body {
   font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
   font-size: 14px;
+  margin-bottom: 100px;
 }
 
 .navbar-static-top {
